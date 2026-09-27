@@ -1,0 +1,22 @@
+# data and model outputs
+data/
+*/data/
+exp/model/
+*/exp/model/
+*/exp/checkpoint/
+*/exp/denoising/
+*/exp/generation/
+*/exp/run/
+*.npy
+*.pkl
+*.pt
+*.ckpt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
